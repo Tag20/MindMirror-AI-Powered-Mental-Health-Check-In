@@ -30,16 +30,23 @@ Groq
 
 📂 Project Structure
 mindmirror/
+
 │── app.py                   # Main Streamlit app
+
 │── go_emotions_dataset.csv  # GoEmotions dataset (or place it here)
+
 │── requirements.txt         # Python dependencies
+
 │── README.md                # Project documentation
 
 💡 Example Conversation Flow
+
 AI: How have you been feeling emotionally over the past few days?  
+
 User: Tired and frustrated.  
 
 AI: Do you think the tiredness is amplifying your frustration, or is it more about something deeper?  
+
 User: More about deeper issues…  
 
 ... (5-step conversation continues)  
