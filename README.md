@@ -33,7 +33,7 @@ mindmirror/
 
 │── app.py                   # Main Streamlit app
 
-│── go_emotions_dataset.csv  # GoEmotions dataset (or place it here)
+│── go_emotions_dataset.csv  # GoEmotions dataset
 
 │── requirements.txt         # Python dependencies
 
